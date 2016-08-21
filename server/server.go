@@ -1,7 +1,7 @@
 package main
 
 import (
-	"CarRemoteTCP/server/car"
+	"./car"
 	"fmt"
 	"net"
 	"os"
